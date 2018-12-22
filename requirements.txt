@@ -3,5 +3,5 @@ opencv-python
 requests
 progressbar
 pillow
-tensorflow
+tensorflow-gpu
 keras
