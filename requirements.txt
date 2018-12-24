@@ -5,3 +5,4 @@ progressbar
 pillow
 tensorflow-gpu
 keras
+cloudpickle
